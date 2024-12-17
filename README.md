@@ -4,7 +4,7 @@
 
 A simple and intuitive web app to create, customize, and manage your travel checklists.  
 
-![App Screenshot](img/app.png)
+![App Screenshot](/img/app.png)
 
 ## 🚀 Live Website  
 [travel-bag-nine.vercel.app](https://travel-bag-nine.vercel.app)
