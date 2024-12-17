@@ -1,8 +1,26 @@
-# React + Vite
+# Travel Bag 🧳  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://travel-bag-nine.vercel.app)
 
-Currently, two official plugins are available:
+A simple and intuitive web app to create, customize, and manage your travel checklists.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App Screenshot](img/app.png)
+
+## 🚀 Live Website  
+[travel-bag-nine.vercel.app](https://travel-bag-nine.vercel.app)
+
+## Features  
+- Create and manage travel checklists  
+- Customizable items and categories  
+- Simple and responsive UI  
+
+## Tech Stack  
+- **React**  
+- **JavaScript**  
+- **Zustand** (State Management)  
+
+## Installation  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/AlanY1an/TravelBag.git
+   cd TravelBag
